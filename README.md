@@ -52,8 +52,10 @@ Install the required Python dependencies:
 pip install langchain-community langchain-text-splitters langchain-ollama faiss-cpu pypdf
 ````
 
+---
+
 ## Project Structure
-````text
+```text
 .
 ├── data/                         
 │   ├── porsche_911_aero_cfd_dossier.pdf
@@ -62,7 +64,10 @@ pip install langchain-community langchain-text-splitters langchain-ollama faiss-
 ├── porche_911_investigations/
 ├── main.py
 └── README.md
+
 ```
+
+---
 
 ## Example session:
 ```text
